@@ -52,7 +52,7 @@ education:
   - area: PhD Artificial Intelligence
     institution: Beijing University of Posts and Telecommunications
     date_start: 2022-09-01
-    date_end: now
+    # date_end: now
     summary: |
       Supervised by A/Prof. Kongming Liang and Prof. Zhanyu Ma.
     # button:
